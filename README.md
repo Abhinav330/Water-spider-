@@ -4,5 +4,6 @@ don't forget to follow me on guithub!!!
 
 watch this video to know more : 
 
-code.ino : arduino code .
+code.ino : arduino code.
+
 diagram.png : circuit diagram.
